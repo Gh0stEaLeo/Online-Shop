@@ -1,2 +1,2 @@
 # Online-Shop
-Simple Winter Sports Shop with Cart
+Simple Winter Sports Shop with Cart. HTML+CSS+JAVASCRIPT
